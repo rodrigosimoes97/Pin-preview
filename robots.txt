@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rodrigosimoes97.github.io/Pin/sitemap.xml
