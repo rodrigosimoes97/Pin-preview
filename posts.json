@@ -1,12 +1,12 @@
 [
   {
-    "slug": "feeling-stressed-reset-emotions",
-    "title": "Feeling Stressed? Reset Your Emotions Now",
-    "description": "Discover practical ways to reset your emotions and build emotional resilience when stress takes over. Learn simple techniques for a calmer mind.",
+    "slug": "fast-healthy-meals-busy-weekdays",
+    "title": "Fast & Healthy Meals for Your Busy Weekdays",
+    "description": "Discover quick and healthy meal ideas to fuel your body during hectic weekdays. Learn simple recipes and tips for nutritious eating on the go.",
     "date": "2026-02-23",
-    "url": "feeling-stressed-reset-emotions.html",
-    "hero": "assets/2026-02-23_feeling-stressed-reset-emotions.jpg",
-    "tag": "mental-wellness"
+    "url": "fast-healthy-meals-busy-weekdays.html",
+    "hero": "assets/2026-02-23_fast-healthy-meals-busy-weekdays.jpg",
+    "tag": "recipes"
   },
   {
     "slug": "small-habits-improve-health",
@@ -30,7 +30,7 @@
     "slug": "best-way-to-prepare-for-sleep",
     "title": "What's the Best Way to Prepare for Sleep Each Night?",
     "description": "Discover effective bedtime routines and wind-down habits to improve your sleep quality. Learn practical tips for a more restful night.",
-    "date": "2026-02-23",
+    "date": "2026-02-22",
     "url": "best-way-to-prepare-for-sleep.html",
     "hero": "assets/2026-02-23_best-way-to-prepare-for-sleep.jpg",
     "tag": "sleep"
