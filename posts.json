@@ -1,12 +1,21 @@
 [
   {
-    "slug": "easy-recipes-for-busy-weeknights",
-    "title": "Busy Weeknights? Easy Recipes for Fast Meals",
-    "description": "Discover quick and healthy recipes perfect for busy weeknights. Learn how to prepare delicious meals fast, even with a hectic schedule.",
+    "slug": "feeling-stressed-reset-emotions",
+    "title": "Feeling Stressed? Reset Your Emotions Now",
+    "description": "Discover practical ways to reset your emotions and build emotional resilience when stress takes over. Learn simple techniques for a calmer mind.",
     "date": "2026-02-23",
-    "url": "easy-recipes-for-busy-weeknights.html",
-    "hero": "assets/2026-02-23_easy-recipes-for-busy-weeknights.jpg",
-    "tag": "recipes"
+    "url": "feeling-stressed-reset-emotions.html",
+    "hero": "assets/2026-02-23_feeling-stressed-reset-emotions.jpg",
+    "tag": "mental-wellness"
+  },
+  {
+    "slug": "small-habits-improve-health",
+    "title": "What Small Habits Improve Your Health?",
+    "description": "Discover simple, sustainable habit changes to boost your well-being. Small steps for big health improvements.",
+    "date": "2026-02-23",
+    "url": "small-habits-improve-health.html",
+    "hero": "assets/2026-02-23_small-habits-improve-health.jpg",
+    "tag": "healthy-habits"
   },
   {
     "slug": "longevity-daily-routine-evidence-aligned",
