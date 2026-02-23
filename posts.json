@@ -1,12 +1,21 @@
 [
   {
-    "slug": "calorie-awareness-sustainable-weight-loss",
-    "title": "Is Calorie Awareness Key to Sustainable Weight Loss?",
-    "description": "Discover how mindful calorie choices can lead to lasting weight loss without restrictive diets. Learn practical tips for a healthier lifestyle.",
+    "slug": "calorie-mistakes-weight-loss",
+    "title": "Are You Making These Calorie Mistakes? Sustainable Choices for Weight Loss",
+    "description": "Discover common calorie counting mistakes and learn sustainable strategies for weight loss. Make informed choices for a healthier lifestyle.",
     "date": "2026-02-23",
-    "url": "calorie-awareness-sustainable-weight-loss.html",
-    "hero": "assets/2026-02-23_calorie-awareness-sustainable-weight-loss.jpg",
-    "tag": "weight"
+    "url": "calorie-mistakes-weight-loss.html",
+    "hero": "assets/2026-02-23_calorie-mistakes-weight-loss.jpg",
+    "tag": "healthy-habits"
+  },
+  {
+    "slug": "what-is-emotional-resilience-and-how-to-build-it",
+    "title": "What is Emotional Resilience and How to Build It?",
+    "description": "Discover what emotional resilience is and learn practical strategies to build it for better stress management and overall mental wellness.",
+    "date": "2026-02-23",
+    "url": "what-is-emotional-resilience-and-how-to-build-it.html",
+    "hero": "assets/2026-02-23_what-is-emotional-resilience-and-how-to-build-it.jpg",
+    "tag": "mental-wellness"
   },
   {
     "slug": "small-habits-improve-health",
