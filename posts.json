@@ -1,11 +1,29 @@
 [
   {
-    "slug": "calorie-mistakes-weight-loss",
-    "title": "Are You Making These Calorie Mistakes? Sustainable Choices for Weight Loss",
-    "description": "Discover common calorie counting mistakes and learn sustainable strategies for weight loss. Make informed choices for a healthier lifestyle.",
+    "slug": "bedtime-routine-vs-no-routine",
+    "title": "Bedtime Routine vs. No Routine: What Works for Better Sleep?",
+    "description": "Discover why a consistent bedtime routine is crucial for sleep quality. Learn simple wind-down habits to help you fall asleep faster and wake up refreshed.",
     "date": "2026-02-23",
-    "url": "calorie-mistakes-weight-loss.html",
-    "hero": "assets/2026-02-23_calorie-mistakes-weight-loss.jpg",
+    "url": "bedtime-routine-vs-no-routine.html",
+    "hero": "assets/2026-02-23_bedtime-routine-vs-no-routine.jpg",
+    "tag": "sleep"
+  },
+  {
+    "slug": "best-way-to-wind-down-before-bed",
+    "title": "What's the Best Way to Wind Down Before Bed?",
+    "description": "Discover simple, effective bedtime routines and wind-down habits to improve your sleep quality and wake up feeling refreshed. Learn practical tips for a better night's rest.",
+    "date": "2026-02-23",
+    "url": "best-way-to-wind-down-before-bed.html",
+    "hero": "assets/2026-02-23_best-way-to-wind-down-before-bed.jpg",
+    "tag": "healthy-habits"
+  },
+  {
+    "slug": "calorie-counting-vs-awareness-weight-loss",
+    "title": "Calorie Counting vs. Awareness: Which Works Better for Sustainable Weight Loss?",
+    "description": "Explore the differences between strict calorie counting and mindful calorie awareness for lasting weight loss. Discover practical tips for sustainable choices.",
+    "date": "2026-02-23",
+    "url": "calorie-counting-vs-awareness-weight-loss.html",
+    "hero": "assets/2026-02-23_calorie-counting-vs-awareness-weight-loss.jpg",
     "tag": "healthy-habits"
   },
   {
